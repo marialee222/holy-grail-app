@@ -22,7 +22,7 @@ To run the Holy Grail App on your machine, follow these steps:
 
 1. First, clone the Holy Grail repository to your local machine using the following command:
 
-		- git clone https://github.com/marialee222/holy-grail-app.git
+git clone https://github.com/marialee222/holy-grail-app.git
 
 2. Navigate to the directory where you cloned the repository in your terminal:
 		 - cd holy-grail-app
