@@ -10,12 +10,12 @@ The Holy Grail app provides users with a seamless experience to manage content l
 ### Overall Flow and Improvements
 Updates made to enhance user experience and functionality: 
 
-		- Utilized Redis for fast and efficient data storage and retrieval.
-		- Implemented Express.js for the backend, ensuring smooth handling of requests.
-		- Created a Redis client to initialize and manage content for different sections of the layout.
-		- Provided endpoints for updating and retrieving layout content dynamically.
-		- Enhanced error handling for better user experience.
-		- Added static file serving for front-end assets.
+	- Utilized Redis for fast and efficient data storage and retrieval.
+	- Implemented Express.js for the backend, ensuring smooth handling of requests.
+	- Created a Redis client to initialize and manage content for different sections of the layout.
+	- Provided endpoints for updating and retrieving layout content dynamically.
+	- Enhanced error handling for better user experience.
+	- Added static file serving for front-end assets.
 
 ## How to Run
 To run the Holy Grail App on your machine, follow these steps: 
