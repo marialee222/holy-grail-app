@@ -21,19 +21,19 @@ Updates made to enhance user experience and functionality:
 To run the Holy Grail App on your machine, follow these steps: 
 
 1. First, clone the Holy Grail repository to your local machine using the following command:
-git clone https://github.com/marialee222/holy-grail-app.git
+		- git clone https://github.com/marialee222/holy-grail-app.git
 
 3. Navigate to the directory where you cloned the repository in your terminal:
-cd holy-grail-app
+		 - cd holy-grail-app
 
 4. Install the necessary dependencies by running:
-npm install 
+		 - npm install 
 
 5. Ensure Redis is running. You can use Docker to start Redis if it's not already running:
-docker run -p 6379:6379 --name my-redis -d redis:4.0.1
+	 	- docker run -p 6379:6379 --name my-redis -d redis:4.0.1
 
 6. Start the Express application:
-node index.js 
+	 	- node index.js 
 
 7. Open your preferred browser and navigate to the local server (usually http://localhost:3000).
 
