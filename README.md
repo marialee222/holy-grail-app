@@ -46,6 +46,7 @@ To run the Holy Grail App on your machine, follow these steps:
 
 ## Roadmap of Future Improvements
 Future improvements for the Holy Grail App include:
+
 	- Implement authentication and authorization for secure content management.
 	- Develop a user-friendly front-end interface with React.
 	- Add support for different types of content (e.g., images, videos).
